@@ -2,6 +2,8 @@
 
 *I used provided Sample Code from eCampus to display image.*
 
+The Result Screenshots are in the 'Screenshots' directory in the repository as you can see.
+
 ### Instructions
 
 1. Clone this repository, and go to the directory of this repository cloned into
